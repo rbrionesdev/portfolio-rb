@@ -1,0 +1,14 @@
+:root {
+  --primary: hsl(226, 92%, 59%);
+  --primary-dark: hsl(221, 85%, 46%);
+  --secondary: hsl(25, 99%, 63%);
+  --secondary-dark: hsl(25, 99%, 50%);
+  --white: #f5f9fa;
+  --white2: #ebf3f5;
+  --gray: #e1e4d5;
+  --gray2: #c0c6c9;
+  --gray3: #4b4c4d;
+  --black: #323333;
+  --black2: #2a2b2b;
+  --blackdark: #000000;
+}

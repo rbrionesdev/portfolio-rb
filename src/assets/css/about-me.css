@@ -1,0 +1,15 @@
+#about-me p {
+  font-size: 1.1rem;
+  text-align: left;
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 0.6em;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
